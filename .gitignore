@@ -1,6 +1,7 @@
 # Devenv
 .devenv*
 devenv.local.nix
+local.properties
 
 # direnv
 .direnv
